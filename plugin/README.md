@@ -1,4 +1,8 @@
-# cordova-plugin-browsertab
+# This is a fork
+
+of the [original](https://github.com/google/cordova-plugin-browsertab) `cordova-plugin-browsertab` repo, modified to remove the dependency on `cordova-plugin-compat` which already exists in Android in recenv versions of Cordova.
+
+## cordova-plugin-browsertab
 
 Note: This is not an official Google product.
 
